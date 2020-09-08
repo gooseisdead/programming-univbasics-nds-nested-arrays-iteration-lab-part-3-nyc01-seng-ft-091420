@@ -16,6 +16,7 @@ def join_nested_strings
   end
     string_array.join(" ")
 end
+end
 #   mixed_data_1.each do |obj|
 #   mixed_data_1.flatten
 #   mixed_data_1.delete_if { |obj| !(obj.is_a? String) }
