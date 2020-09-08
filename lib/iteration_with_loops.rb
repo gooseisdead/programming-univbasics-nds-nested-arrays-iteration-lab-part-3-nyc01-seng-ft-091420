@@ -1,7 +1,6 @@
 require 'pry'
 
 def join_nested_strings(src)
-  def join_nested_strings(src)
   string_array = []
   row = 0
   while row < src.count do
